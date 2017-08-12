@@ -16,7 +16,6 @@
 		4E42CFB51F3F0F70004A1DCC /* IOSUtilsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFB41F3F0F70004A1DCC /* IOSUtilsUITests.swift */; };
 		4E42CFE01F3F2435004A1DCC /* FileManager+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFD71F3F2435004A1DCC /* FileManager+Extension.swift */; };
 		4E42CFE11F3F2435004A1DCC /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFD81F3F2435004A1DCC /* LoginTextField.swift */; };
-		4E42CFE21F3F2435004A1DCC /* NetworkUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFD91F3F2435004A1DCC /* NetworkUtils.swift */; };
 		4E42CFE31F3F2435004A1DCC /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFDA1F3F2435004A1DCC /* String+Extension.swift */; };
 		4E42CFE41F3F2435004A1DCC /* UIBarButtonItem+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFDB1F3F2435004A1DCC /* UIBarButtonItem+Extension.swift */; };
 		4E42CFE51F3F2435004A1DCC /* UIButton+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E42CFDC1F3F2435004A1DCC /* UIButton+Extension.swift */; };
@@ -58,7 +57,6 @@
 		4E42CFB61F3F0F70004A1DCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E42CFD71F3F2435004A1DCC /* FileManager+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FileManager+Extension.swift"; sourceTree = "<group>"; };
 		4E42CFD81F3F2435004A1DCC /* LoginTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
-		4E42CFD91F3F2435004A1DCC /* NetworkUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkUtils.swift; sourceTree = "<group>"; };
 		4E42CFDA1F3F2435004A1DCC /* String+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
 		4E42CFDB1F3F2435004A1DCC /* UIBarButtonItem+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBarButtonItem+Extension.swift"; sourceTree = "<group>"; };
 		4E42CFDC1F3F2435004A1DCC /* UIButton+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extension.swift"; sourceTree = "<group>"; };
@@ -149,7 +147,6 @@
 			children = (
 				4E42CFD71F3F2435004A1DCC /* FileManager+Extension.swift */,
 				4E42CFD81F3F2435004A1DCC /* LoginTextField.swift */,
-				4E42CFD91F3F2435004A1DCC /* NetworkUtils.swift */,
 				4E42CFDA1F3F2435004A1DCC /* String+Extension.swift */,
 				4E42CFDB1F3F2435004A1DCC /* UIBarButtonItem+Extension.swift */,
 				4E42CFDC1F3F2435004A1DCC /* UIButton+Extension.swift */,
@@ -299,7 +296,6 @@
 			files = (
 				4E42CF971F3F0F70004A1DCC /* ViewController.swift in Sources */,
 				4E42CFE11F3F2435004A1DCC /* LoginTextField.swift in Sources */,
-				4E42CFE21F3F2435004A1DCC /* NetworkUtils.swift in Sources */,
 				4E42CFE41F3F2435004A1DCC /* UIBarButtonItem+Extension.swift in Sources */,
 				4E42CF951F3F0F70004A1DCC /* AppDelegate.swift in Sources */,
 				4E42CFE51F3F2435004A1DCC /* UIButton+Extension.swift in Sources */,
